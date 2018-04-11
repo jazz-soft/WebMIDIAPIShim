@@ -5,19 +5,26 @@
 ![macos](http://jazz-soft.github.io/img/macos.jpg)
 ![linux](http://jazz-soft.github.io/img/linux.jpg)
 
-This is a **Node.js** implementation of [**Web MIDI API**](http://webaudio.github.io/web-midi-api) (as in Chrome-43 version).
+This module is kept here for the old projects compatibility.
+It redirects to [**jzz**](https://www.npmjs.com/package/jzz):
 
-It is based on Chris Wilson's [**WebMIDIAPIShim**](https://github.com/cwilso/WebMIDIAPIShim).
+    // index.js:
+    module.exports = require('jzz');
 
-The complete development and web-browser versions are available at
-[**cwilso/WebMIDIAPIShim**](https://github.com/cwilso/WebMIDIAPIShim) (the original project), or
-[**jazz-soft/WebMIDIAPIShim**](https://github.com/jazz-soft/WebMIDIAPIShim) (the latest Node.js updates) - these two get merged periodically.
+If you are starting a new project, please consider using
+[**jzz**](https://www.npmjs.com/package/jzz) directly.
+
+## Other versions
+- [**cwilso/WebMIDIAPIShim**](https://github.com/cwilso/WebMIDIAPIShim)
+- [**abudaan/WebMIDIAPIShim**](https://github.com/abudaan/WebMIDIAPIShim)
+
 
 ## Usage
 
 [**npm install web-midi-api**](https://www.npmjs.com/package/web-midi-api)
 
     var navigator = require('web-midi-api');
+    // consider using var navigator = require('jzz');
 
     var midi;
     var inputs;
