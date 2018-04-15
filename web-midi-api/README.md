@@ -15,8 +15,8 @@ If you are starting a new project, please consider using
 [**jzz**](https://www.npmjs.com/package/jzz) directly.
 
 ## Other versions
-- [**cwilso/WebMIDIAPIShim**](https://github.com/cwilso/WebMIDIAPIShim)
-- [**abudaan/WebMIDIAPIShim**](https://github.com/abudaan/WebMIDIAPIShim)
+- [**cwilso/WebMIDIAPIShim**](https://github.com/cwilso/WebMIDIAPIShim) by [**Chris Wilson**](https://github.com/cwilso)
+- [**abudaan/WebMIDIAPIShim**](https://github.com/abudaan/WebMIDIAPIShim) by [**Daniel van der Meer**](https://github.com/abudaan)
 
 
 ## Usage
