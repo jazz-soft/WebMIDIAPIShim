@@ -4,6 +4,7 @@
 ![windows](http://jazz-soft.github.io/img/windows.jpg)
 ![macos](http://jazz-soft.github.io/img/macos.jpg)
 ![linux](http://jazz-soft.github.io/img/linux.jpg)
+![raspberry pi](https://jazz-soft.github.io/img/rpi.jpg)
 
 This module is kept here for the old projects compatibility.
 It redirects to [**jzz**](https://www.npmjs.com/package/jzz):
