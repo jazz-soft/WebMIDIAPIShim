@@ -1,6 +1,6 @@
 {
   "name": "web-midi-api",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Web MIDI API for Node.js",
   "main": "index.js",
   "scripts": {
@@ -39,6 +39,6 @@
   },
   "homepage": "http://jazz-soft.net",
   "dependencies": {
-    "jzz": "^1.0.0"
+    "jzz": "^1.0.7"
   }
 }
